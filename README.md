@@ -1,0 +1,1 @@
+# plugins-typing-text
